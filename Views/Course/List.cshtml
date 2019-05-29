@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List</h2>
+
+<div class="card mx-auto">
+    <div class="card-header">katılımcı listesi</div>
+    <div class="card-body">
+        <table class="table table-borded table-striped">
+    <thread>
+         <tr>
+              <td>adı</td>
+              <td>mail</td>
+              <td>phone</td>
+              <td>isActive</td>
+          </tr>
+      </thread>
+<tbody>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Phone</td>
+            <td>
+                @if (item.isActive == true)
+                {
+                    <span>geliyor</span>
+                }
+                else
+                {
+                    <span>gelmiyor</span>
+                }
+            </td>
+        </tr>
+    }
+ </tbody>
+</table>
+</div>
+</div>

@@ -1,0 +1,106 @@
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.deps.json
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.runtimeconfig.json
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.runtimeconfig.dev.json
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.dll
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.pdb
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.Views.dll
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.Views.pdb
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorAssemblyInfo.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorAssemblyInfo.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.AssemblyInfoInputs.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.AssemblyInfo.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.TagHelpers.input.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.TagHelpers.output.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorCoreGenerate.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorTargetAssemblyInfo.cache
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorTargetAssemblyInfo.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.Views.pdb
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.dll
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.pdb
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csproj.CopyComplete
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\Users\Section2\Desktop\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Apply.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.deps.json
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.runtimeconfig.json
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.runtimeconfig.dev.json
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.dll
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.pdb
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.Views.dll
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.Views.pdb
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorAssemblyInfo.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorAssemblyInfo.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.AssemblyInfoInputs.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.AssemblyInfo.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.TagHelpers.input.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.TagHelpers.output.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorCoreGenerate.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Apply.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorTargetAssemblyInfo.cache
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorTargetAssemblyInfo.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.Views.pdb
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.dll
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.pdb
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csproj.CopyComplete
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Thanks.g.cshtml.cs
+C:\Users\Section2\Desktop\.net core uygulama02.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\List.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.deps.json
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.runtimeconfig.json
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.runtimeconfig.dev.json
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.dll
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.pdb
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.Views.dll
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\bin\Debug\netcoreapp2.1\coreuygulama.Views.pdb
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csprojAssemblyReference.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorAssemblyInfo.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorAssemblyInfo.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.AssemblyInfo.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.TagHelpers.input.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.TagHelpers.output.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorCoreGenerate.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Apply.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\List.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Course\Thanks.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorTargetAssemblyInfo.cache
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.RazorTargetAssemblyInfo.cs
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.Views.pdb
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.dll
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.pdb
+C:\Users\kubra\Desktop\03.05\coreuygulama\coreuygulama\obj\Debug\netcoreapp2.1\coreuygulama.csproj.CopyComplete

@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*alttakileri biz manual yazdık*@
+@*burası course un indexi*@
+
+<h2>Course/Index</h2>
+
+@*.card.mx-auto>.card-header+.card-body+.card-text*@
+@*bunu yaz tab yap zencod çalışsın*@
+<div class="card mx-auto">
+    <div class="card-header">
+        Nasılsınız..
+        ViewBag.Sel
+    </div>
+    <div class="card-body">
+        <div class="card-text">
+            <p>Kurslarımıza Bakmalısınız</p>
+            <a asp-action="apply" asp-controller="course" class="btn btn-primary">Başvuru Yap</a>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,28 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Thanks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thanks</h2>
+
+<body>
+    <div class="card mx-auto">
+        <div class="card-header">
+            <p>Sayın @Model.Name </p>
+        </div>
+        <div class="card-body">
+
+            @if (Model.isActive == true)
+            {
+                <p>kaydınız alındı</p>
+            }
+            else
+            {
+                <p>kaydınzı aktif etmediniz </p>
+            }
+            
+            <a asp-action="List">diğer katlımcıları görüntüle</a>
+        </div>
+    </div>
+</body>
